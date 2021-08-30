@@ -41,7 +41,7 @@ cacheSolve <- function(x, ...) {
     return(m)
   }
   
-  #Get matrix
+  #Get matrixx
   data <- x$get()
   
   #calculate inverse
